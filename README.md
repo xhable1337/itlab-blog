@@ -5,6 +5,24 @@
 ![mediumish](assets/images/mediumish-jekyll-template.png)
 
 
+### Возможные атрибуты для frontmatter
+`layout`: макет страницы (например, post)
+`title`: заголовок поста
+`author`: автор поста
+`categories`: категории поста
+`tags`: теги поста
+`image`: изображение для поста
+`featured`: флаг для выделения поста (true/false)
+`hidden`: флаг для скрытия поста (true/false)
+`toc`: флаг для отображения оглавления (true/false)
+`beforetoc`: текст перед оглавлением
+`comments`: флаг для включения комментариев (true/false)
+`rating`: рейтинг поста (например, 4.5)
+`description`: описание поста
+`date`: дата публикации поста
+`last_modified_at`: дата последнего изменения поста
+
+
 ### Copyright
 
 Copyright (C) 2019 Sal, https://www.wowthemes.net
