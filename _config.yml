@@ -16,7 +16,8 @@ authors:
   evgeny:
     name: Евгений Згурский
     display_name: Евгений Згурский
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: "assets/images/avatars/evgeny.png"
+    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: evgeny@zgursky.tk
     web: https://xhable.t.me
     description: "Создатель этого блога, студент группы ИДМ-24-08 в МГТУ «Станкин»"
