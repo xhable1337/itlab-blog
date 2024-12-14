@@ -4,13 +4,11 @@ title:  "Создание RESTful API с использованием Flask и S
 author: evgeny
 categories: [ руководство, Python, API ]
 image: assets/images/flask-api.jpg
-featured: true
+featured: false
 hidden: false
 toc: true
 beforetoc: "В этой статье мы рассмотрим, как создать RESTful API с использованием Flask и SQLAlchemy. Мы обсудим основные концепции и предоставим пример кода для создания простого API."
 ---
-
-# Введение
 
 Flask - это легковесный веб-фреймворк для Python, который предоставляет минимальный набор инструментов для создания веб-приложений. В сочетании с SQLAlchemy, мощной библиотекой ORM (Object-Relational Mapping), Flask позволяет легко создавать RESTful API. В этой статье мы рассмотрим основные концепции и предоставим пример кода для создания простого API.
 

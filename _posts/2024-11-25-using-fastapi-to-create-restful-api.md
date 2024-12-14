@@ -3,14 +3,12 @@ layout: post
 title: "Использование FastAPI для создания Web API"
 author: evgeny
 categories: [ руководство, Python, API ]
-image: assets/images/fastapi.jpg
-featured: true
+image: assets/images/fastapi.png
+featured: false
 hidden: false
 toc: true
 beforetoc: "В этой статье мы рассмотрим, как использовать FastAPI для создания Web API. Мы обсудим основные концепции, интеграцию с SQLAlchemy и Pydantic, а также контейнеризацию с помощью Docker."
 ---
-
-# Введение
 
 FastAPI - это современный, быстрый (высокопроизводительный) веб-фреймворк для создания API на Python 3.6+ на основе стандартов OpenAPI и JSON Schema. Он был разработан для обеспечения высокой производительности и простоты использования, что делает его отличным выбором для создания Web API.
 

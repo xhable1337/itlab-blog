@@ -3,8 +3,8 @@ layout: post
 title:  "Продвинутые декораторы в Python: концепции и примеры"
 author: evgeny
 categories: [ руководство, Python ]
-image: assets/images/decorators.jpg
-featured: true
+image: assets/images/python-decorators.jpg
+featured: false
 hidden: false
 toc: true
 beforetoc: "В этой статье мы рассмотрим продвинутые концепции декораторов в Python. Мы обсудим, как они работают, и предоставим примеры их использования в различных сценариях."
