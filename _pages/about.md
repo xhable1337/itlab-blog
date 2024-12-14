@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: О сайте
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Данный блог, созданный с помощью Jekyll и развёрнутый на Github Pages, является выполненной лабораторной работой по дисциплине «Интернет-технологии» студента группы ИДМ-24-08 Згурского Е.О. Основной лонгрид, который было необходимо создать в рамках данной ЛР, представлен <a href="{{site.baseUrl}}/main-directions-of-development-of-modern-internet-technologies/">по данной ссылке</a>.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/stankin-logo.png" alt="Логотип МГТУ Станкин" /></p>
 <h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
@@ -22,13 +21,12 @@ comments: true
 </div>
 
 <div class="col-md-4">
-
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Информация о сайте</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Сайт доступен благодаря технологии Github Pages. Репозиторий с кодом: <a target="_blank" href="https://github.com/xhable/itlab-blog">xhable/itlab-blog <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="{{site.baseUrl}}/main-directions-of-development-of-modern-internet-technologies/" class="btn btn-primary">Перейти к лонгриду</a> <a target="_blank" href="https://xhable.t.me/" class="btn btn-secondary"><i class="fab fa-telegram"></i> Связь с автором</a>
 
 </div>
 </div>
