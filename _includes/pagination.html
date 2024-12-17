@@ -1,7 +1,7 @@
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a class="ml-1 mr-1" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    <a class="ml-1 mr-1" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Назад</a>
   {% else %}
     <span>&laquo; Назад</span>
   {% endif %}
@@ -17,7 +17,7 @@
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a class="ml-1 mr-1" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a class="ml-1 mr-1" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Вперёд &raquo;</a>
   {% else %}
     <span>Вперёд &raquo;</span>
   {% endif %}
