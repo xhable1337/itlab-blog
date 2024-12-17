@@ -390,3 +390,13 @@ DeFi может кардинально изменить подход к фина
 Для успешного внедрения и развития этих технологий необходимо сотрудничество между разработчиками, финансовыми институтами и регуляторами. Это позволит создать благоприятную среду для инноваций, обеспечит защиту интересов пользователей и поспособствует дальнейшему развитию цифровой экономики.  
 
 В перспективе, продолжение развития и интеграции DeFi и других технологий «Web 3.0» в финансовую отрасль приведет к созданию новых бизнес-моделей, стимулирует экономический рост и повысит качество жизни людей по всему миру.
+
+### Исследования по теме
+
+1. [A.S. Smirnov, A.V. Tumialis, K.S. Golokhvast. Development of Internet of Things, Augmented Reality and 5G technologies (review)](https://arxiv.org/abs/1902.08008)
+2. [Г. И. Абдрахманова, О. Е Баскакова, К. О. Вишневский, Л. М. Гохберг и др. Тенденции развития интернета в России и зарубежных странах: аналитический доклад](https://issek.hse.ru/internet_trends_2020)
+3. [В. В. Трофимов. Искусственный интеллект в цифровой экономике](https://cyberleninka.ru/article/n/iskusstvennyy-intellekt-v-tsifrovoy-ekonomike)
+4. [А. В. Федотова. Искусственный интеллект как фокус развития цифровой экономики: теоретические и практические аспекты](https://cyberleninka.ru/article/n/iskusstvennyy-intellekt-kak-fokus-razvitiya-tsifrovoy-ekonomiki-teoreticheskie-i-prakticheskie-aspekty)
+5. [Peixu Wang, Kun Wang, Dong Wang, Hongyuan Liu. The Impact of Manufacturing Transformation in Digital Economy Under Artificial Intelligence](https://ieeexplore.ieee.org/document/10517598)
+6. [Kamran Sattar Awaisi, Qiang Ye, Srinivas Sampalli. A Survey of Industrial AIoT: Opportunities, Challenges, and Directions](https://ieeexplore.ieee.org/document/10591982)
+7. [Tarun Kumar Vashishth, Bhupendra Kumar, Kewal Krishan Sharma, Sachin Chaudhary, Rajneesh Panwar, Vikas Sharma. Unlocking the Potential of IoT Technologies in the Era of Industry 4.0 Digital Economy: An Exploration of the Transformative Impact](https://ieeexplore.ieee.org/document/10596576)
